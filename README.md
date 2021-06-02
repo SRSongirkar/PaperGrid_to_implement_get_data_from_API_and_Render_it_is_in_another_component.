@@ -1,0 +1,2 @@
+# PaperGrid_to_implement_get_data_from_API_and_Render_it_is_in_another_component.
+Created with CodeSandbox
